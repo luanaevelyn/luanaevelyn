@@ -3,10 +3,9 @@
 <p align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=466cc7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Therly+Darwin;I+study+analysis+and+systems+development+at+Unipê;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=466cc7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Luana+Evelyn;I+study+analysis+and+systems+development+at+Unipê;Be+Welcome!)](https://git.io/typing-svg) 
 
 
-**Back-End Developer** 🇧🇷
 
 I am interested in the technology field and have been developing my skills mainly in programming and back-end development. I have been studying different programming languages and putting my knowledge into practice through personal projects and academic activities, aiming to improve my programming logic and my ability to develop solutions. I am currently looking for an opportunity in the technology field, especially in back-end development, where I can gain professional experience, apply my knowledge, and continue growing in the field.
 
@@ -26,7 +25,7 @@ I am interested in the technology field and have been developing my skills mainl
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
 
 
-![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-60%25-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.JS-30%25-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-40%25-purple?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,8 +43,6 @@ I am interested in the technology field and have been developing my skills mainl
 ### ★Front-End & Design (Complementary Skills) ★
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=0D1117)
-![Handlebars](https://img.shields.io/badge/-Handlebars-0D1117?style=for-the-badge&logo=handlebarsdotjs&logoColor=f0772b&labelColor=0D1117)
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117)
 
 ###  ★ Currently Studying ★
