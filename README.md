@@ -1,4 +1,5 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5681e8&height=120&section=header"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5681e8&height=120&section=header"/>
 
 <p align="center">
 
@@ -7,26 +8,24 @@
 </p>
 
 <p align="center">
-  Student of Systems Analysis and Development at Universidade Cruzeiro do Sul, focused on Full Stack Development. Interested in building technological solutions and improving my skills through academic and personal projects. Currently seeking an internship opportunity in technology to apply my knowledge, gain professional experience, and continue growing as a developer.
+Student of Systems Analysis and Development at Universidade Cruzeiro do Sul, focused on Full Stack Development. Interested in building technological solutions and improving my skills through academic and personal projects. Currently seeking an internship opportunity in technology to apply my knowledge, gain professional experience, and continue growing as a developer.
 </p>
 
 <p align="center">
   <a href="https://instagram.com/therlydarwin.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-
- <a href="https://discord.com/users/1536485400179122308" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-therlydarwin.dev-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=luana.eosilva@gmail.com" target="_blank">
+  <a href="https://discord.com/users/1536485400179122308" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-therlydarwin.dev-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luana.eosilva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
   <a href="https://www.linkedin.com/in/luana-evelyn-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
 ---
 
 ### ★ Programming Languages ★
@@ -44,8 +43,7 @@
 ![Java](https://img.shields.io/badge/Java-60%25-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-75%25-orange?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-80%25-red?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-80%25-black?style=for-the-badge&logo=github&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-80%25-black?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-85%25-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### ★ Databases ★
