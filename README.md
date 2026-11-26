@@ -15,9 +15,9 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://discord.com/invite/therlydwr" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+ <a href="https://discord.com/users/1536485400179122308" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-therlydarwin.dev-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=luana.eosilva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
